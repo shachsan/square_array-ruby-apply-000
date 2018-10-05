@@ -5,6 +5,3 @@ def square_array(array)
   array.each {|ele|square_arr << ele*ele }
   return square_arr
 end
-
-
-
